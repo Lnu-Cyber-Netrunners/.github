@@ -19,5 +19,3 @@ Our mission is to prepare students for the dynamic and challenging field of cybe
 
 
 The world of cybersecurity is evolving rapidly, with increasing specialization and growing demand for skilled professionals. From financial institutions to service providers and even government agencies, the need for cybersecurity expertise is evident. In Ukraine, organizations such as the Cyber Police, the Security Service of Ukraine, and the Armed Forces also rely on cybersecurity professionals to protect critical assets.
-
-We are proud to announce that this year marks the first graduation of our bachelor's program in cybersecurity. Our graduates have a wide range of employment opportunities and promising future prospects as they step into the exciting and ever-evolving world of cybersecurity.
