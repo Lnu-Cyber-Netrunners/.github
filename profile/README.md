@@ -4,7 +4,7 @@
 ## About Us 📚
 
 
-Welcome to the Lnu-Cyber-Netrunners profile! We are a passionate group of students 🎓 who are actively studying and exploring the world of cybersecurity. Our journey in this exciting field began in 2018 when we introduced the internal specialization "Cybersecurity and Data Protection" within the framework of the Computer Science program at our university.
+Welcome to the Lnu-Cyber-Netrunners profile! We are a passionate group of students 🎓 who are actively studying and exploring the world of cybersecurity. Our journey in this exciting field began when we introduced the internal specialization "Cybersecurity and Data Protection" within the framework of the Computer Science program at our university.
 
 
 In the following year, we achieved a significant milestone when we obtained a license from the Ministry of Education and Science of Ukraine to offer a bachelor's level program in Cybersecurity 🛡️. This marked the official recognition of our commitment to educating the next generation of cybersecurity experts.
